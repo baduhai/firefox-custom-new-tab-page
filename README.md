@@ -3,10 +3,10 @@
 Fork of MethodGrab's [Custom New Tab Page](https://github.com/MethodGrab/firefox-custom-new-tab-page) which also supports being set as a custom home page.
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/baduhai/firefox-custom-new-tab-page/CI.yaml?branch=master&style=flat-square)](https://github.com/baduhai/firefox-custom-new-tab-page/actions/workflows/CI.yaml)
-[![Version](https://img.shields.io/amo/v/custom-new-tab-page?style=flat-square)][amo]
+<!-- [![Version](https://img.shields.io/amo/v/custom-new-tab-page?style=flat-square)][amo]
 [![Rating](https://img.shields.io/amo/rating/custom-new-tab-page?style=flat-square)][amo]
 [![Users](https://img.shields.io/amo/users/custom-new-tab-page?style=flat-square)][amo]
-[![Downloads](https://img.shields.io/amo/dw/custom-new-tab-page?style=flat-square)][amo]
+[![Downloads](https://img.shields.io/amo/dw/custom-new-tab-page?style=flat-square)][amo] -->
 
 > A Firefox extension that allows you to specify a custom URL to be shown when opening a new tab, _without changing the address bar content_.
 
@@ -41,4 +41,4 @@ To publish a new version:
 1. Upload the generated `zip` to https://addons.mozilla.org/en-US/developers/addons
 
 
-[amo]: https://addons.mozilla.org/en-GB/firefox/addon/custom-new-tab-page
+<!-- [amo]: https://addons.mozilla.org/en-GB/firefox/addon/custom-new-tab-page -->

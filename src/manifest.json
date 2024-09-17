@@ -4,8 +4,8 @@
   "version": "1.0.0",
   "description": "Specify a custom URL to be shown when opening a new tab, without changing the address bar content",
   "developer": {
-    "name": "MethodGrab",
-    "url": "https://github.com/methodgrab/firefox-custom-new-tab-page"
+    "name": "baduhai",
+    "url": "https://github.com/baduhai/firefox-custom-new-tab-page"
   },
   "icons": {
     "48": "img/icon-48.png",
@@ -29,7 +29,10 @@
     "webRequest",
     "webRequestBlocking"
   ],
-  "chrome_url_overrides" : {
+  "chrome_settings_overrides": {
+    "homepage": "app.html"
+  },
+  "chrome_url_overrides": {
     "newtab": "app.html"
   },
   "background": {

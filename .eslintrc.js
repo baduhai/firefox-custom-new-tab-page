@@ -1,8 +1,8 @@
 module.exports = {
 	extends: [
-		'@baduhai/standard',
-		'@baduhai/standard/browser',
-		'@baduhai/standard/esnext',
+		'@methodgrab/standard',
+		'@methodgrab/standard/browser',
+		'@methodgrab/standard/esnext',
 	],
 
 	env: {},

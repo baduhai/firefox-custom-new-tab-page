@@ -13,7 +13,7 @@
   },
   "applications": {
     "gecko": {
-      "id": "custom-new-tab-page@mint.as",
+      "id": "custom-new-tab-and-home-page@mint.as",
       "strict_min_version": "57.0"
     }
   },
